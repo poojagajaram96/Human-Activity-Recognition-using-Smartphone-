@@ -1,0 +1,2 @@
+# Human-Activity-Recognition-using-Smartphone-
+By using the sensors in the smartphone we can detect the activities of human like walking,standing,laying,walking upstairs and downstairs etc.By the dataset I have and by use of machine learning algorithms i have predicted the activities . And these predictions are very useful in health care systems like for abnormal patients and for people who have impaired etc..
